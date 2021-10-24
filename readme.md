@@ -22,4 +22,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 - Ananya [iamananya](http://github.com/iamananya)
 - Rajnish [ooyeraju](http://github.com/ooyeraju)
 - Ananya Mahato [iamananya](https://github.com/iamananya)
-- Rajnish Kumar [ooyeraju](http://github.com/ooyeraju)
+- Rajnish Kumr [ooyeraju](http://github.com/ooyeraju)
